@@ -16,7 +16,7 @@
 (function ß(){
     try{
         ß();
-    } catch() {
+    } catch(e) {
         ß()
     }
 })()
